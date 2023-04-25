@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aaronngcx
-- 👀 I’m interested in all things automotive & software
-- 🌱 I’m currently learning TALL Stack
-- 💞️ I’m looking to collaborate on side projects involving cryptocurrency
+- 🌱 I’m currently learning MEVN Stack
 - 📫 Reach me @ aaronngcx@gmail.com
 
 <!---
