@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aaronngcx
 - 🌱 I’m currently learning MEVN Stack
 - 📫 Reach me @ aaronngcx@gmail.com
+- https://aaronngcx.com/
 
 <!---
 aaronngcx/aaronngcx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
