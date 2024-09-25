@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aaronngcx
-- 🌱 I’m currently learning MEVN Stack
 - 📫 Reach me @ aaronngcx@gmail.com
 - https://aaronngcx.com/
 
